@@ -1,5 +1,5 @@
 # Manga-mangapark-packer
-A CBZ Packer for Mangaopark dot net
+A CBZ Packer for Mangapark dot net
 
 <div align="center">
     <h1>Mangapark.net Packer</h1>
