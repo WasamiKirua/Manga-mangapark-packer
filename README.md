@@ -31,7 +31,8 @@ python main.py
 ```
 
 1) you will be prompted for the URL, Example: [https://mangapark.net/title/REPLACEMENT/](https://mangapark.net/title/REPLACEMENT)
-2) grab a cup of coffee/tea
+2) a destination folder Ex: Vagabond
+3) grab a cup of coffee/tea
 
 
 ### Notes
